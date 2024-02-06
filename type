@@ -1,0 +1,16 @@
+
+  class Trend  {}
+   class Point {x:number; y: number; z:number}
+   function Rtyn(){
+    let point: Point;
+      };
+      let point: Point = new Point();
+      function Slacc() {
+        point.x = 1; point.y = 2;
+      };
+      class Point3D {x: number; y: number; z:number; }
+      let Salcc: Point3D = new Point3D();
+      function Trebs(){
+        point.x = 1; point.y = 2; point.z = 3;
+      };
+    
